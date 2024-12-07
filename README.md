@@ -102,7 +102,7 @@ Caso utilize outra IDE, verifique os comandos nescessários da sua IDE.
 
 ## Exemplo de código encontrado no repositório 
 
-**Javascript** <img src="https://cdn.simpleicons.org/javascript/000/F7DF1E" alt="Node" align=left width=24>
+**Javascript** <img src="https://cdn.simpleicons.org/javascript/000/F7DF1E" alt="logo Javascript" align=left width=24>
 
 ```js
 function alterarStatus(id){
